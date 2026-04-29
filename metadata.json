@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Cash Arena",
+  "description": "Real-time multiplayer Ludo game with integrated wallet system, tournaments, and secure cash gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["multiplayer", "fintech", "real-time"]
+}
